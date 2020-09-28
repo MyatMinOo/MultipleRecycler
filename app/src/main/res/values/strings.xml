@@ -1,26 +1,6 @@
 <resources>
-    <string name="app_name">mm</string>
-    <string name="orderN">Order Number : 1245783</string>
-    <string name="spRequest">Special Request</string>
-    <string name="million_ks">1052000 Ks</string>
-    <string name="delivery">Delivery details</string>
-    <string name="delired">Delivered</string>
-    <string name="grandma">grandma home</string>
-    <string name="order_date">Order date - 19/9/1990 \n Total Item : 4</string>
-    <string name="russia">Russia S Petersburg \n 196048 RU \n Milionnaya street 29, flat \n 10</string>
-    <string name="dCharges">Delivery Charges</string>
-    <string name="twoKs">2500 Ks</string>
-    <string name="applied">Applied Coupon code</string>
-    <string name="fg">FG-22365893</string>
-    <string name="Discount">Discount</string>
-    <string name="twenty">20% (20410 KS)</string>
-    <string name="pMethod">Payment Method</string>
-    <string name="bankTran">BANK TRANSFER</string>
-    <string name="iphone">Iphone 8 Plus</string>
-    <string name="iPrice">980000 KS</string>
-    <string name="gold">Gold \n QTY : 1</string>
-    <string name="blender">Blender N41015</string>
-    <string name="panason">Panasonic \n QTY : 1</string>
-    <string name="nine">999999 KS</string>
-    <string name="bank">Bank Information \n Bank Name \n Account Number : \n Name</string>
+    <string name="price">Price-$</string>
+    <string name="kg">Kg</string>
+    <string name="discount">$10 Discount</string>
+    <string name="app_name">Shop</string>
 </resources>
