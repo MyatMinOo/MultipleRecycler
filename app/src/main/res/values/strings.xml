@@ -3,4 +3,6 @@
     <string name="kg">Kg</string>
     <string name="discount">$10 Discount</string>
     <string name="app_name">Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
